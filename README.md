@@ -1,2 +1,5 @@
 # awesome-project
-awesome-project 9999999999999999999999
+<<<<<<< HEAD
+awesome-project
+awesome-project hahahahhahahhahah
+>>>>>>> 3597da5a6461055739ecf9b6fde718814d32f241
